@@ -1,0 +1,12 @@
+{
+    "F-613888551":{
+        "store":"UnionGrand",
+        "amount":150,
+        "status":"PENDING"
+    },
+    "F-620142080":{
+            "store":"Alamat",
+            "amount":42,
+            "status":"PENDING"
+    }
+}
